@@ -286,12 +286,12 @@ This internship provided valuable practical experience and helped me improve my 
 
 ## 👨‍💻 Author
 
-**Priyanshu Bisht**
+**Priyanshu Bisht(2410030679)**
 
 B.Tech Computer Science and Engineering  
 Batch: **2024–2028**  
 Semester: **5th Semester**  
-Section: **3CSE3**
+Section: **3CSE21**
 
 ---
 
