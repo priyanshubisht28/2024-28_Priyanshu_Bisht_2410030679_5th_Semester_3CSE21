@@ -111,7 +111,7 @@ The second task was to develop a task management web application that allows use
 
 Add your GitHub project link here:
 
-[View Task Management Application](YOUR_PROJECT_LINK)
+[View Task Management Application](https://github.com/priyanshubisht28/View_Task_Management_Application)
 
 ---
 
@@ -147,7 +147,7 @@ The application provides an online shopping platform where users can browse prod
 
 Add your GitHub project link here:
 
-[View E-Commerce Web Application](YOUR_PROJECT_LINK)
+[View E-Commerce Web Application](https://github.com/priyanshubisht28/E_commerce_Application)
 
 ---
 
@@ -179,7 +179,7 @@ The platform allows users to register, log in, create and manage blog posts, and
 
 Add your GitHub project link here:
 
-[View Blog Platform with Comments](YOUR_PROJECT_LINK)
+[View Blog Platform with Comments](https://github.com/priyanshubisht28/View_Blog_Platform_with_Comments)
 
 ---
 
